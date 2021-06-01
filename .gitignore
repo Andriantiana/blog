@@ -1,2 +1,6 @@
 venv
 __pycache__
+migrations/
+app/__pycache__/__init__.cpython-36.pyc
+env_variable.txt
+.flaskenv
